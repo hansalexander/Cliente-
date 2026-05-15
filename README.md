@@ -50,8 +50,3 @@ Este sistema fue diseñado para gestionar las operaciones centrales de una empre
 - **Arquitectura:** Arquitectura por capas (Lógica, Base de Datos, Presentación, Clases).
 
 ---
-
-### 🛠️ Installation / Instalación
-1. Clone the repository / *Clona el repositorio*:
-   ```bash
-   git clone [https://github.com/TU_USUARIO/java-sql-logistics-manager.git](https://github.com/TU_USUARIO/java-sql-logistics-manager.git)
