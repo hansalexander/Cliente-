@@ -16,7 +16,7 @@ public class Conexiones {
                          //"com.mysql.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3306/paa2026-2";
         Class.forName(driver);
-        return DriverManager.getConnection(url,"root","HansAlexander2006.");
+        return DriverManager.getConnection(url,"root","1121213.");
     }
     public Connection AbrirConexion() throws ClassNotFoundException, SQLException {
         con = getConnection();
